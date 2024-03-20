@@ -1,5 +1,5 @@
-# learning_nldynamics_chaos_strogatz
-Learning *Nonlinear Dynamics and Chaos, 2nd Ed.* by Steven Strogatz
+# Learning *Nonlinear Dynamics and Chaos, 2nd Ed.*, by Steven Strogatz
 
-Self-studying Strogatz's *Nonlinear Dynamics and Chaos*, I realized that Google colab + github would be a good place to document the explorations.
-Code is not mature yet and is mainly for self-documentation, but I do plan to make them usable for other students who might be intersted to play around.
+Self-studying Strogatz's *Nonlinear Dynamics and Chaos*, I realized that Google Colab + GitHub would be a good place to document the explorations. Future students can copy, adapt and play around with these notebooks to gain insight.
+
+Here, I document my learning progress and explorations. Notes, analyses and plots are embedded in a Jupyter Notebook using Python. The *scipy*, *numpy* and *matplotlib* libraries are heavily used.
